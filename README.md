@@ -1,6 +1,6 @@
-# Statistics Group Projects (ST 625)
+# Regression Analysis Projects
 
-Two group projects from ST 625 (A Second Course in Statistics: Regression Analysis), each in its own folder.
+Two regression and classification analysis projects, each in its own folder.
 
 ## album-sales-regression-analysis/
 
