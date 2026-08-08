@@ -1,5 +1,0 @@
-if (!require("tidyverse")) install.packages("tidyverse", dependencies = TRUE)
-data$Target_Numeric <- as.numeric(data$Target_Numeric)
-contingency_table <- table(data$Target_Numeric, data$Daytime_evening_attendance)
-chi_test <- chisq.test(contingency_table)
-print(chi_test)
